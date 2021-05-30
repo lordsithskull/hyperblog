@@ -10,3 +10,6 @@ Es así como en 2020 comienzo a estudiar utilizando la plataforma virtual de Pla
 Espero volverme un "nómada digital".
 
 Comenzamos a utilizar el control de cambios de Git y Github.
+
+Gracias a Platzi, agregamos conocimientos de como usar WordPress y Woocomerce.
+La nueva meta es aprender de ventas y marketing online, y pulir habilidades de PHP.
