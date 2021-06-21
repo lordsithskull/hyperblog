@@ -1,0 +1,22 @@
+Comandos usados en la terminal de Github para Windows o Linux
+NOTA: En sistemas Windows la terminal no es sensible al uso de mayúsculas o minúsculas.
+Los sistemas Linux y Unix son sensibles a mayúsculas y minúsculas 
+
+comando     Descripción
+pwd         nos muestra el "path" o "ruta de carpeta"  donde nos encontramos  ubicados.
+cd          Permite cambiar de ubicación. 
+    ..          agregando . o .. permite subir en niveles
+ls          Permite listar los archivos listados en la carpeta actual o en una ruta específica
+    -a          Muestra los archivos de la ruta actual
+    -l          Muestra los archivos como una lista con los atributos del archivo
+    -la         Muestra todos los archivos como una lista con sus atributos incluyendo archivos ocultos
+
+clear      Permite limpiar la consola o terminal, también se puede usar el comando ctrl+L
+history    Muestra el historial decomando utilizados
+
+mkdir  nombreCarpeta    Permite crear un nuevo directorio ocarpeta
+touch  nombreArchivo    Permite creaun nuevo archivo vacio
+cat    nombreArchivo    Permite visualizar el contenido de un archivo en ala terminal
+rm     nombreArchivo    Permite borrar archivos.El comando puede ser peligroso
+
+salir del editor de comentarios  esc,shift,z z
