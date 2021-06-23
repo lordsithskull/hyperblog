@@ -20,3 +20,15 @@ cat    nombreArchivo    Permite visualizar el contenido de un archivo en ala ter
 rm     nombreArchivo    Permite borrar archivos.El comando puede ser peligroso
 
 salir del editor de comentarios  esc,shift,z z
+
+*Ha raíz de cambios sociales en 2019 los comando de Git que usaban master
+*cambiaron a main
+git status
+git branch
+git pull origin master  Trae la última versión desde servidor remoto
+
+git config          configuraciones de Git
+            --list  muestra una lista con las configuraciones de Gitç
+            --list --show-origin  Lugar donde se encuetran guardadas las configuraciones
+            --global.user.name"Nombre"    Permite cambiar el nombre en las variables de Git
+            --global.user.mail"email"    Permite cambiar el nombre en las variables de Gitups
