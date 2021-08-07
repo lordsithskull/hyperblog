@@ -23,6 +23,8 @@ salir del editor de comentarios  esc,shift,z z
 
 *Ha raíz de cambios sociales en 2019 los comando de Git que usaban master
 *cambiaron a main
+
+git remote add https://direccionremota.
 git status
 git branch
 git pull origin master  Trae la última versión desde servidor remoto
